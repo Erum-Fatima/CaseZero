@@ -1,0 +1,6 @@
+{
+  "name": "CaseZero",
+  "description": "From report to resolution. Automatically. A civic issue reporting and ward accountability platform.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
